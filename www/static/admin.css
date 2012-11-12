@@ -1,0 +1,260 @@
+.link {
+  padding-left: 2%;
+  padding-right: 2%;
+  float: left;
+  cursor: pointer;
+}
+
+#global-container {
+  position: absolute;
+  width: 100%;
+}
+
+#global-table {
+  width: 50%;
+  font-family: Arial;
+}
+
+.global-subheading {
+  width: 30%;
+  font-weight: bold;
+}
+
+#global-settings-table {
+  font-family: Verdana;
+}
+
+#change-password-div {
+  position: absolute;
+  width: 100%;
+  font-family: Verdana;
+  font-weight: bold;
+}
+
+#events-title {
+  width: 100%;
+  font-family: Verdana;
+  font-weight: bold;
+  text-align: center;
+}
+
+.event-name-title {
+  width: 17%;
+  color: #FF9900;
+  text-align: left;
+}
+
+.event-id-title {
+  width: 8%;
+  color: #FF9900;
+}
+
+.event-enabled-title {
+  width: 10%;
+  color: #FF9900;
+}
+
+.event-last-match-title {
+  width: 10%;
+  color: #FF9900;
+}
+
+.event-lateness-title {
+  width: 10%;
+  color: #FF9900;
+}
+
+.event-upload-title {
+  width: 15%;
+  color: #FF9900;
+}
+
+.event-clear-title {
+  width: 20%;
+  color: #FF9900;
+}
+
+.event-operations-title {
+  width: 10%;
+  color: #FF9900;
+}
+
+.event-name {
+  width: 17%;
+  text-align: left;
+}
+
+.event-id {
+  width: 8%;
+}
+
+.event-enabled {
+  width: 10%;
+}
+
+.event-last-match {
+  width: 10%;
+}
+
+.event-lateness {
+  width: 10%;
+}
+
+.event-upload {
+  width: 15%;
+}
+
+.event-clear {
+  width: 20%;
+}
+
+.event-operations {
+  width: 10%;
+}
+
+#events-scroll {
+  background-color: #FFFFFF;
+  border-top: 2px solid #666666;
+  border-bottom: 2px solid #666666;
+  overflow: auto;
+  overflow-x: hidden;
+}
+
+#events-table {
+  width: 100%;
+  text-align: center;
+  font-family: Verdana;
+}
+
+#about-message {
+  width: 100%;
+  position: absolute;
+  color: #FF9900;
+  font-family: Arial Black;
+  text-align: center;
+}
+
+#about-logo {
+  position: absolute;
+  color: #CCCCCC;
+  font-family: Arial;
+}
+
+#about-cpl {
+  position: absolute;
+  color: #FF3333;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+#about-info {
+  width: 50%;
+  position: absolute;
+  font-family: Arial Black;
+  text-align: center;
+}
+
+#online-title {
+  width: 50%;
+  font-family: Verdana;
+}
+
+#online-teams-title {
+  width: 100%;
+  font-family: Verdana;
+  font-weight: bold;
+  text-align: center;
+}
+
+.statistics-event-title {
+  width: 60%;
+  color: #FF9900;
+  text-align: left;
+}
+
+.statistics-team-title {
+  width: 15%;
+  color: #FF9900;
+}
+
+.statistics-time-online-title {
+  width: 25%;
+  color: #FF9900;
+}
+
+#online-teams-scroll {
+  background-color: #FFFFFF;
+  border-top: 2px solid #666666;
+  border-bottom: 2px solid #666666;
+  overflow: auto;
+  overflow-x: hidden;
+}
+
+#total-table-left {
+  font-weight: bold;
+}
+
+#total-online-teams {
+  color: #FF9900;
+}
+
+#total-teams {
+  color: #FF9900;
+}
+
+#offline-title {
+  width: 50%;
+  font-family: Verdana;
+}
+
+#offline-teams-title {
+  width: 100%;
+  font-family: Verdana;
+  font-weight: bold;
+  text-align: center;
+}
+
+#offline-teams-scroll {
+  background-color: #FFFFFF;
+  border-top: 2px solid #666666;
+  border-bottom: 2px solid #666666;
+  overflow: auto;
+  overflow-x: hidden;
+}
+
+#total-table-right {
+  font-weight: bold;
+}
+
+#total-offline-teams {
+  color: #FF9900;
+}
+
+#total-accesses {
+  color: #FF9900;
+}
+
+#online-teams-table {
+  width: 100%;
+  text-align: center;
+  font-family: Verdana;
+}
+
+#offline-teams-table {
+  width: 100%;
+  text-align: center;
+  font-family: Verdana;
+}
+
+.statistics-event {
+  width: 60%;
+  text-align: left;
+}
+
+.statistics-team {
+  width: 15%;
+}
+
+.statistics-time-online {
+  width: 25%;
+}

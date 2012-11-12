@@ -1,0 +1,194 @@
+.link {
+  padding-left: 2%;
+  padding-right: 2%;
+  float: left;
+  cursor: pointer;
+}
+
+.countdown-div {
+  width: 100%;
+  height: 98%;
+  background-color: #E9E9E9;
+  border: solid 2px #999999;
+}
+
+#match-number {
+  width: 100%;
+  position: absolute;
+  color: #990000;
+  text-align: center;
+  font-family: Arial Black;
+}
+
+#match-fraction {
+  position: absolute;
+  text-align: center;
+  color: #666666;
+  font-family: Arial Black;
+}
+
+#red-div {
+  position: absolute;
+  color: #333333;
+  text-align: center;
+  font-family: Arial Black;
+}
+
+#red-teams {
+  color: #FF0000;
+}
+
+#blue-div {
+  position: absolute;
+  color: #333333;
+  text-align: center;
+  font-family: Arial Black;
+}
+
+#blue-teams {
+  color: #0000FF;
+}
+
+#match-time-div {
+  width: 100%;
+  position: absolute;
+  color: #333333;
+  text-align: center;
+  font-family: Arial Black;
+}
+
+#match-time {
+  color: #333333;
+}
+
+#match-status-div {
+  width: 84%;
+  position: absolute;
+  overflow: hidden;
+  border-top: solid 2px #999999;
+  border-bottom: solid 2px #999999;
+  color: #333333;
+  text-align: center;
+  font-family: Arial Black;
+}
+
+#match-countdown {
+  color: #000000;
+  position: relative;
+}
+
+#match-status {
+  color: #333333;
+  position: relative;
+}
+
+#field-status-div {
+  width: 100%;
+  position: absolute;
+  color: #333333;
+  text-align: center;
+  font-family: Arial Black;
+}
+
+#field-status {
+  color: #333333;
+}
+
+#field-lastmatch {
+  color: #333333;
+}
+
+#current-time {
+  width: 100%;
+  position: absolute;
+  color: #990000;
+  text-align: center;
+  font-family: Arial Black;
+}
+
+#schedule-title {
+  width: 100%;
+  font-family: Verdana;
+  font-weight: bold;
+}
+
+.schedule-match-title {
+  width: 10%;
+  color: #FF9900;
+}
+
+.schedule-time-title {
+  width: 20%;
+  color: #FF9900;
+}
+
+.schedule-red-title {
+  width: 10%;
+  color: #FF0000;
+}
+
+.schedule-blue-title {
+  width: 10%;
+  color: #0000FF;
+}
+
+.schedule-status-title {
+  width: 10%;
+  color: #FF9900;
+}
+
+#schedule-scroll {
+  background-color: #FFFFFF;
+  border-top: 2px solid #666666;
+  border-bottom: 2px solid #666666;
+  overflow: auto;
+  overflow-x: hidden;
+}
+
+#schedule-table {
+  width: 100%;
+  text-align: center;
+  font-family: Verdana;
+}
+
+.schedule-match {
+  width: 10%;
+  text-align: left;
+  font-weight: bold;
+}
+
+.schedule-time {
+  width: 20%;
+  text-align: left;
+}
+
+.schedule-team {
+  width: 10%;
+}
+
+.schedule-status {
+  width: 10%;
+  font-size: 85%;
+  font-weight: bold;
+}
+
+#about-message {
+  width: 100%;
+  position: absolute;
+  color: #FF9900;
+  font-family: Arial Black;
+  text-align: center;
+}
+
+#about-logo {
+  position: absolute;
+  color: #CCCCCC;
+  font-family: Arial;
+}
+
+#about-info {
+  width: 50%;
+  position: absolute;
+  font-family: Arial Black;
+  text-align: center;
+}
